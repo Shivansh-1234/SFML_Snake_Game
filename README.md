@@ -15,10 +15,6 @@ A Simple Snake Game made in SFML / C++
 
 `$ git clone https://github.com/Shivansh-1234/SFML_Snake_Game `
 
-You can also play by opening `bin->x64->Release->SFML_Snake_Game.exe`  
-
-
-
 Thank You 😄
 
 
